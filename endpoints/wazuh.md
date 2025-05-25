@@ -1,0 +1,3 @@
+# Setup Windows 10 Wazuh Agent and linux agent and windowes server and RHEL
+
+Steps...
