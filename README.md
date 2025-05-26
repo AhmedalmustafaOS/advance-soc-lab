@@ -132,9 +132,13 @@ Based on open-source tools licensed under AGPLv3 and others.
 
 ## 🙌 Credits
 Lab designed and tested manually on bare metal (Kali Linux) and virtualized RHEL, Windows and MACos for .
-Created by Ahmedalmustafa Babiker.
+Created by Ahmedalmustafa Osman.
 
----
+---## 👨‍💻 Developed by
 
-📣 Ready for publishing on GitHub and LinkedIn as a practical SOC Automation project.
+**Ahmedalmustafa Osman**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-osman-119224313)
+
+
+📣 .
 
