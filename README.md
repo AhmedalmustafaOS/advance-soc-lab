@@ -64,16 +64,28 @@ Main Project Folder/
 |
 ├── architecture.png             # Network/system architecture diagram
 └── README.md                    # Main documentation (this file)
-
+```
 ---
+
+## 🛡️ Project Overview
+
+This cybersecurity lab project demonstrates the integration of multiple security tools including TheHive, Cortex, MISP, QRadar CE, Wazuh, and Synapse. It simulates a real-world SOC environment where alerts are generated from various endpoints (Windows, Linux, etc.), collected by Wazuh, correlated by QRadar, and investigated through TheHive with enrichment from Cortex and threat intel from MISP.
+
+The goal is to build a realistic detection and response lab for learning, training, and showcasing practical cybersecurity skills.
+
+- **⚠️ Disclaimer&**
+Any data, API keys, IP addresses, or information that may appear sensitive are either mock, obfuscated, or used purely for simulation.
+This lab does not target any real system and should not be used for malicious purposes.
+The author takes no responsibility for any misuse of this content.
+
+![Project Preview](cover.png)
+
 
 ## 🔧 Setup Summary (Manual)
 ### 1. Install Java 11:
 ```bash
 sudo apt install openjdk-11-jdk -y
 ```
-
-
 
 
 
@@ -132,13 +144,11 @@ Based on open-source tools licensed under AGPLv3 and others.
 
 ## 🙌 Credits
 Lab designed and tested manually on bare metal (Kali Linux) and virtualized RHEL, Windows and MACos for .
-Created by Ahmedalmustafa Osman.
 
----## 👨‍💻 Developed by
+## 👨‍💻 Developed by
 
 **Ahmedalmustafa Osman**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-osman-119224313)
+---
 
-
-📣 .
-
+📣 Ready for publishing on GitHub and LinkedIn as a practical SOC Automation project.
