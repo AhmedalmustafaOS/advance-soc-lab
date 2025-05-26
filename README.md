@@ -69,6 +69,8 @@ Main Project Folder/
 
 ## 🛡️ Project Overview
 
+![Project Preview](Images/cover.png)
+
 This cybersecurity lab project demonstrates the integration of multiple security tools including TheHive, Cortex, MISP, QRadar CE, Wazuh, and Synapse. It simulates a real-world SOC environment where alerts are generated from various endpoints (Windows, Linux, etc.), collected by Wazuh, correlated by QRadar, and investigated through TheHive with enrichment from Cortex and threat intel from MISP.
 
 The goal is to build a realistic detection and response lab for learning, training, and showcasing practical cybersecurity skills.
@@ -77,8 +79,6 @@ The goal is to build a realistic detection and response lab for learning, traini
 Any data, API keys, IP addresses, or information that may appear sensitive are either mock, obfuscated, or used purely for simulation.
 This lab does not target any real system and should not be used for malicious purposes.
 The author takes no responsibility for any misuse of this content.
-
-![Project Preview](cover.png)
 
 
 ## 🔧 Setup Summary (Manual)
