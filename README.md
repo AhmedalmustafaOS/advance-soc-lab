@@ -132,7 +132,7 @@ Based on open-source tools licensed under AGPLv3 and others.
 
 ## 🙌 Credits
 Lab designed and tested manually on bare metal (Kali Linux) and virtualized RHEL, Windows and MACos for .
-Created by Ahmedalmustafa Babiker.
+Created by Ahmedalmustafa Osman.
 
 ---## 👨‍💻 Developed by
 
